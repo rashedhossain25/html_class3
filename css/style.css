@@ -1,0 +1,25 @@
+h3{
+	color: blue;
+	background-color: black;
+}
+.heading4{
+	color: pink;
+	background-color: red;
+}
+
+.border{
+	border: 5px dotted green;
+}
+
+#h5{
+	color: magenta;
+	background-color: green;
+}
+.h6{
+	background-color: yellow;
+}
+video{
+	width: 500px;
+	height: 300px;
+}
+
